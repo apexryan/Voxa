@@ -83,7 +83,7 @@ mvn clean install
 4. Run the application:
 
 ```bash
-mvn spring-boot:run
+Run app.java 
 ```
 
 ## Usage
@@ -111,17 +111,27 @@ The backend is deployed on Render.com. To deploy your own instance:
 1. Create a Render.com account
 2. Create a new Web Service
 3. Connect your GitHub repository
-4. Configure the following:
-   - Build Command: `mvn clean install`
-   - Start Command: `mvn spring-boot:run`
-   - Environment Variables: Configure as needed
+4. Select the repo, dockerfile will handle the rest
+5. Deploy Web Service
 
 ## Building Executable
 
 To create an executable JAR file:
 
 ```bash
-mvn clean package
+Open IntelliJ IDEA
+
+Navigate to:
+File → Project Structure → Artifacts → + → JAR → Jar from module with dependencies
+
+Select the Main Class containing public static void main(String[] args)
+
+Set the output directory for the JAR file
+
+Click Apply → OK
+
+Build the artifact:
+Build → Build Artifacts → Build
 ```
 
 The executable will be generated in the `target` directory.
