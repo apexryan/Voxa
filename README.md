@@ -1,4 +1,4 @@
-# VoxaChat
+# Voxa
 
 A real-time chat application built with Java, Spring Boot, and Swing GUI, featuring WebSocket communication for instant messaging capabilities.
 
@@ -97,7 +97,7 @@ Run app.java
 
 ## Architecture
 
-VoxaChat follows a client-server architecture:
+Voxa follows a client-server architecture:
 
 - **Server**: Spring Boot application handling WebSocket connections, message routing, and user session management
 - **Client**: Java Swing desktop application that connects to the server via WebSocket
