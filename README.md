@@ -56,7 +56,7 @@ src/main/java/com/example/websocket_demo/
 
 ## Prerequisites
 
-- Java 22 or later
+- Java 24
 - Maven 3.6 or later
 - Internet connection for WebSocket communication
 
