@@ -2,8 +2,6 @@
 
 A real-time chat application built with Java, Spring Boot, and Swing GUI, featuring WebSocket communication for instant messaging capabilities.
 
-![Login Screen](screenshots/login-screen.png)
-
 ## Features
 
 - Real-time messaging using WebSocket
@@ -17,11 +15,12 @@ A real-time chat application built with Java, Spring Boot, and Swing GUI, featur
 
 ### Login Screen
 
-![Login Screen](screenshots/login-screen.png)
+![Screenshot 2025-03-25 114447](https://github.com/user-attachments/assets/94af8cb0-0799-4b00-a4fe-7633580cc7f6)
 
 ### Chat Interface
 
-![Chat Interface](screenshots/chat-interface.png)
+![Screenshot 2025-03-25 114504](https://github.com/user-attachments/assets/351d768e-0766-4786-9de8-5f2a38b97cee)
+
 
 ## Tech Stack
 
@@ -142,6 +141,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-Ryan - [itsryan.kr@gmail.com](mailto:itsryan.kr@gmail.com)
+Rupayan - [itsryan.kr@gmail.com](mailto:itsryan.kr@gmail.com)
 
 Project Link: [https://github.com/apexryan/VoxaChat](https://github.com/apexryan/VoxaChat)
