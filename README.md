@@ -63,6 +63,16 @@ https://www.oracle.com/java/technologies/downloads/#jdk24-windows
 - Maven 3.6 or later
 - Internet connection for WebSocket communication
 
+## Usage
+
+1. Download the exe file from releases.
+2. Launch the application
+3. Enter your username when prompted (maximum 16 characters)
+4. Start chatting with other connected users
+5. Messages are sent by pressing Enter or clicking the Send button
+6. The connected users panel on the left shows all active participants
+7. To exit, close the window and confirm when prompted
+
 ## Installation
 
 1. Clone the repository:
@@ -88,15 +98,6 @@ mvn clean install
 ```bash
 Run app.java 
 ```
-
-## Usage
-
-1. Launch the application
-2. Enter your username when prompted (maximum 16 characters)
-3. Start chatting with other connected users
-4. Messages are sent by pressing Enter or clicking the Send button
-5. The connected users panel on the left shows all active participants
-6. To exit, close the window and confirm when prompted
 
 ## Architecture
 
