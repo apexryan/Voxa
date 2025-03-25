@@ -56,7 +56,7 @@ src/main/java/com/example/websocket_demo/
 
 ## Prerequisites
 
-- Java 24
+- Java 24 - Download below.
 ```bash
 https://www.oracle.com/java/technologies/downloads/#jdk24-windows
 ```
